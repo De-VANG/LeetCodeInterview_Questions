@@ -1,3 +1,7 @@
+
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int cadmax = Integer.MIN_VALUE;
